@@ -11,14 +11,9 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: Anue鉅亨網
-    url: https://cnyes.com/twstock
-  - name: Goodinfo!
-    url: https://goodinfo.tw/tw/index.asp
-  - name: 公開資訊觀測站
-    url: https://mops.twse.com.tw/mops/web/index
-  - name: 玩股網
-    url: https://.wantgoo.com/stock
+  - name: Youtube
+    url: https://www.youtube.com/
+
 
 
 
