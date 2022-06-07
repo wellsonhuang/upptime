@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Anue鉅亨網
-    url: https://cnyes.com/twstock/
+    url: https://cnyes.com/twstock
   - name: Goodinfo!
     url: https://goodinfo.tw/tw/index.asp
   - name: 公開資訊觀測站
