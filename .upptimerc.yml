@@ -4,13 +4,23 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.youtube.com/
+    url: https://google.com/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Anue鉅亨網
+    url: https://cnyes.com/twstock/
+  - name: Goodinfo!
+    url: https://goodinfo.tw/tw/index.asp
+  - name: 公開資訊觀測站
+    url: https://mops.twse.com.tw/mops/web/index
+  - name: 玩股網
+    url: https://.wantgoo.com/stock
+
+
 
  
 status-website:
