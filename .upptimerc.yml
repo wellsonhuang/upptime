@@ -11,8 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: yahoo 股市
-    url: https://tw.stock.yahoo.com/
+  - name: yahoo 
+    url: https://tw.yahoo.com
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
