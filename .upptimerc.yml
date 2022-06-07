@@ -11,6 +11,17 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: yahoo 股市
+    url: https://tw.stock.yahoo.com/
+  - name: Anue鉅亨網
+    url: https://www.cnyes.com/twstock/
+  - name: Goodinfo!
+    url: https://goodinfo.tw/tw/index.asp
+  - name: 公開資訊觀測站
+    url: https://mops.twse.com.tw/mops/web/index
+  - name: 玩股網
+    url: https://www.wantgoo.com/stock
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
